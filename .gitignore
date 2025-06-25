@@ -17,7 +17,7 @@ tomcat.*/
 *~
 
 # DB 연결
-src/main/java/DBConnection/
+src/main/java/util/DBConnection/
 
 # IntelliJ
 .idea/
